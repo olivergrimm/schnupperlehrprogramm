@@ -1,4 +1,4 @@
-# Beispiel für ein technisches Schnupperlehrprogramm für Interessenten im Bereich Informatiker:in EFZ
+# Beispiel für ein technisches Schnupperlehrprogramm im Bereich Informatiker:in EFZ
 
 Das Programm besteht aus drei spielerischen und trotzdem eindrücklichen Beispielen. basierend auf Python, welche in einem online Compiler bearbeitet und ausgeführt werden können.
 
