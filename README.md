@@ -1,6 +1,6 @@
 # Beispiel für ein technisches Schnupperlehrprogramm für Interessenten im Bereich Informatiker:in EFZ
 
-Das Programm besteht aus drei Beispiel basierend auf Python, welche in einem online Compiler bearbeitet und ausgeführt werden können.
+Das Programm besteht aus drei spielerischen und trotzdem eindrücklichen Beispielen. basierend auf Python, welche in einem online Compiler bearbeitet und ausgeführt werden können.
 
 ## Online-Kompiler
 
