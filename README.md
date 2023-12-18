@@ -14,3 +14,6 @@ https://www.programiz.com/python-programming/online-compiler/
 
 
 ## Beispiel 3: Taschenrechner ergänzen
+
+
+## Beispiel 4: Weihnachtsprognose
