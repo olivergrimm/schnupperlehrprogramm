@@ -6,36 +6,10 @@ def zellers_congruence(day, month, year):
     k = year % 100
     j = year // 100
 
-    # Zeller's Congruence formula
     h = (day + 13 * (month + 1) // 5 + k + k // 4 + j // 4 - 2 * j) % 7
 
-    # Map the result to the corresponding weekday
     days_of_week = ["Samstag", "Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag"]
     
     return days_of_week[h]
 
-# Calculate the weekday of Christmas Day in the year 3000
-day = 25
-month = 12
-year = 3000
-
-statistik = {
-    "Montag": 0,
-    "Dienstag": 0,
-    "Mittwoch": 0,
-    "Donnerstag": 0,
-    "Freitag": 0,
-    "Samstag": 0,
-    "Sonntag": 0
-}
-
-startyear = 2023
-while startyear <= 3000:
-    weekday = zellers_congruence(day, month, startyear)
-    
-    statistik[weekday] = statistik[weekday]+1
-    
-    #print(f"Weihnachten ({day}/{month}/{startyear}) wird an einem {weekday} sein.")
-    startyear += 1
-    
-print(statistik)
+print("hallo")
